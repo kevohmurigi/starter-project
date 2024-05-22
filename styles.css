@@ -1,0 +1,11 @@
+/* BIOGRAPHY PAGE CSS*/
+
+img {
+    display: block;
+  }
+  
+  #image {
+    max-width: 100%;
+    height: auto;
+    align-items: center;
+  }
